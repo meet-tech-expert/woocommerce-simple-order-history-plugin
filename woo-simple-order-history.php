@@ -4,8 +4,8 @@
  * Plugin URI: 
  * Description: Track customer order history with their order.
  * Version: 1.0.0
- * Author: Compact Impact
- * Author URI: https://compactimpact.com/
+ * Author: Rinkesh Gupta
+ * Author URI: https://github.com/meet-tech-expert/
  * License: GPL2
  * Text Domain: woo-simple-order-history
  * Domain Path: /languages
